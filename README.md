@@ -1,4 +1,4 @@
-<img src="ВСТАВЬТЕ_СЮДА_ССЫЛКУ_КОТОРУЮ_ДАЛ_GITHUB" width="500">
+<img src="[https://github.com/Sevinj006/Real-Estate-Analysis/blob/main/README.md]" width="500">
 
 
 # Real Estate Analysis
